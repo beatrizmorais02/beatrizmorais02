@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu perfil GitHub.
 
 ## Sobre Mim
 
-Sou **graduanda em Ciência e Tecnologia com ênfase em Engenharia Biomédica na Universidade Federal do Rio Grande do Norte (UFRN)**. Atualmente, estou empolgada por iniciar uma nova jornada de Iniciação Científica focada em **Bioinformática**, expandindo meus conhecimentos para a análise de dados biológicos.🖥️🧬
+Sou **graduanda em Ciência e Tecnologia com ênfase em Engenharia Biomédica na Universidade Federal do Rio Grande do Norte (UFRN)**. Descobrindo o mundo da **Bioinformática**, expandindo meus conhecimentos para a análise de dados biológicos.🖥️🧬
 
 ## Minhas Habilidades
 
